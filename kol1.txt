@@ -4,3 +4,4 @@ Zmiana01
 Zmiana03
 Zmiana04
 prostaWersja
+Zmiana10
