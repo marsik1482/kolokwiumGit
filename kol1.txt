@@ -1,1 +1,6 @@
 naprawaBledu
+oraz
+Zmiana01
+Zmiana03
+Zmiana04
+prostaWersja
